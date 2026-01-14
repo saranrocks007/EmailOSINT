@@ -16,7 +16,7 @@ Disposable email detection
 
 WHOIS company info
 
-## 🚀 Quick Start (2 Minutes)
+## 🚀 Quick Start 
 ```bash
 git clone https://github.com/YOURUSERNAME/EmailOSINT.git
 cd EmailOSINT
@@ -41,15 +41,11 @@ No keys? Still works → Local analysis + Gravatar + WHOIS
 🛠️ Features
 🎨 Professional HTML reports with charts/tables
 
-🌐 5 OSINT sources (Hunter, VT, Gravatar, WHOIS, Local)
+🌐 5 OSINT sources 
 
 💰 100% FREE - No paid APIs
 
 ⚡ Production-ready error handling
-
-📱 Mobile-friendly responsive design
-
-🧪 Test suite included
 
 🚀 GitHub Actions ready
 
@@ -80,22 +76,11 @@ text
 ✅ Red team engagements
 ✅ Threat intelligence research
 ❌ Spam/phishing/stalking
-🔮 Future Roadmap
- Bulk email scanning
 
- Social media scrapers
-
- Docker deployment
-
- Telegram bot interface
-
- ML name matching
 
 🙌 Acknowledgments
 Built with ❤️ for the cybersecurity community.
 Skills demonstrated: Python • OSINT • API Integration • Automation • Web Scraping
 
-📈 For Recruiters
-"Production-ready OSINT tool used in mock investigations. Integrates 5 intelligence sources with professional reporting. 100% free APIs."
 
-<p align="center"> <strong>⭐ Star if useful! 🚀 Questions? Open an issue.</strong> </p> <div align="center"> <sub>Built for <strong>OSINT Analysts</strong> • <strong>Cybersecurity Jobs</strong> • <strong>Portfolio Projects</strong></sub> </div>
+
